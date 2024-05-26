@@ -19,10 +19,15 @@ organized in Alpaca format for optimal model training. It comprises seven distin
 Our model was rigorously trained and tested, achieving impressive results in paraphrase generation. The evaluation scores are as follows:
 
 ROUGE-1: 0.570991 (Standard Deviation: 0.284570)
+
 ROUGE-2: 0.393279 (Standard Deviation: 0.325551)
+
 ROUGE-L: 0.565127 (Standard Deviation: 0.286318)
+
 BLEU Score: 0.22280 (Standard Deviation: 0.359949)
+
 BERT Score: 0.80374 (Standard Deviation: 0.207895)
+
 These scores reflect the model's ability to effectively capture and reproduce the semantic and syntactic essence of the source texts.
 
 ## Access the Model
