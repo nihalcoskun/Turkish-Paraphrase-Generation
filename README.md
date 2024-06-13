@@ -1,4 +1,4 @@
-# Gemma-2b Turkish Paraphrase Generator
+# Gemma-2b Turkish Paraphrase Generatorion
 
 This project focuses on developing a high-performing language model specialized in generating paraphrases in Turkish. 
 Our goal is to enhance natural language understanding and generation capabilities for Turkish text.
